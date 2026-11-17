@@ -575,3 +575,7 @@
 /* ── Next Inline Block ── */
 
 #bgBtn,#bgMod{display:none!important}
+
+#overlay {
+  display: none !important;
+}
